@@ -1,3 +1,6 @@
 [submodule "DevProject"]
 	path = DevProject
 	url = C:/Users/fylit/Documents/gitRepo/DevProject
+[submodule "Excursion"]
+	path = Excursion
+	url = https://github.com/Kim-Marberry/Excursion.git
